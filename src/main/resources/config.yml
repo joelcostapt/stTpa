@@ -1,0 +1,32 @@
+PlayerNotOnline: '&cO jogador não se encontra online.'
+Nothing: '§cEsse jogador não lhe enviou nenhum pedido de teleporte.'
+
+TpaMessages:
+  NoArgsFound:
+    - '&aExecute o comando correto:'
+    - '&f• &e/tpa <jogador>'
+    - '&aComandos complementares:'
+    - '&f• &e/atpa <jogador>'
+    - '&f• &e/rtpa <jogador>'
+  Yourself: '&cNão podes mandar um pedido de teleporte para ti mesmo.'
+  OnGoing: '&cJá tens um pedido de teleporte a recorrer. Aguarda...'
+  Sended:
+    - '&aPedido de teleporte enviado!'
+    - '&eAguarde uma resposta do jogador...'
+  WhoWants: '&eO jogador &f%player% &epretende teleportar-se até si.'
+  Accept: '&eSe deseja aceitar, digite: &a/atpa %player%'
+  Refuse: '&eSe deseja recusar, digite: &c/rtpa %player%'
+
+AcceptTpaMessages:
+  NoArgsFound:
+    - '§aExecute o comando correto:'
+    - '§f• §e/atpa <jogador>'
+  PlayerAccepted: '§f%player% §eaceitou o teu pedido de teleporte.'
+  Accepted: '§aAceitaste o pedido de teleporte de §f%player%'
+
+RefuseTpaMessages:
+  NoArgsFound:
+    - '§aExecute o comando correto:'
+    - '§f• §e/rtpa <jogador>'
+  PlayerRefused: '§f%player% §erecusou o seu pedido de teleporte.'
+  Refused: '§aPedido de teleporte de §f%player% §arecusado com sucesso.'

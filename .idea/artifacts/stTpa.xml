@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="stTpa">
+    <output-path>$PROJECT_DIR$/out/artifacts/stTpa</output-path>
+    <root id="archive" name="stTpa.jar">
+      <element id="module-output" name="stTpa" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,12 @@
+name: stTpa
+version: '${project.version}'
+main: pt.joelcosta.sttpa.Main
+author: start.dev
+commands:
+  tpa:
+  atpa:
+    aliases:
+      - aceitartpa
+  rtpa:
+    aliases:
+      - recusartpa
